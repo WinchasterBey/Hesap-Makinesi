@@ -1,0 +1,1 @@
+hesap makinesidir pythondan yazılmıştır
